@@ -1,2 +1,13 @@
 body{
 background: blue}
+
+h1{
+    font-size:42;
+}
+p{
+    font-size:30;
+}
+
+body div{
+    font-size:22;
+}
