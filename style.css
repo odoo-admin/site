@@ -1,13 +1,17 @@
 body{
-background: blue}
+    background: yellow;
+    width:970px;
+    margin:0 auto;
+}
 
 h1{
-    font-size:42;
+    font-size:42px;
+    color:red;
 }
 p{
-    font-size:30;
+    font-size:30px;
 }
 
 body div{
-    font-size:22;
+    font-size:22px;
 }
